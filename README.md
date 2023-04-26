@@ -4,4 +4,4 @@
 <p>Using https://openweathermap.org/api for weather api</p>
 <p>Using https://www.youtube.com/@prettyprinted channel to understand the topic</p>
 <p>Using https://bulma.io/ css framework for styles</p>
-<p>Using https://console.cloud.google.com/ for deploying into the server. Link : flask-web-app-384921.ew.r.appspot.com/
+<p>Using https://console.cloud.google.com/ for deploying into the server. Link : https://flask-web-app-384921.ew.r.appspot.com/
