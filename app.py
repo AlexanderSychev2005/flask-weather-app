@@ -1,9 +1,8 @@
-from config_OWM import API_KEY
 import os
 import requests
 from flask import Flask, render_template, request, redirect, url_for, flash
 from flask_sqlalchemy import SQLAlchemy 
-from config_OWM import API_KEY
+
 
 
 app = Flask(__name__)
